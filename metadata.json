@@ -1,0 +1,6 @@
+{
+  "name": "LANDLEDGER",
+  "description": "Every parcel. One trusted history. A modern blockchain-powered land record management and tamper-evident registry system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
